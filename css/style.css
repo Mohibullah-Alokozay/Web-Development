@@ -1,0 +1,27 @@
+body .top{
+    background-color: white;
+    color: white;
+    box-sizing: border-box;
+    box-shadow: 13px 13 20px,
+    -13px -13px 20px white;
+    margin-top: 50px;
+    padding: 60px 35px 35px 35px;
+    border-radius: 30px;
+                
+                
+}
+body .top img{
+    margin-left: 130px;
+    width: 30%;
+    margin-top: -10px;
+    
+}
+body .top h2{
+    color: black;
+    text-align: center;
+}
+body .top h6{
+    color: black;
+    text-align: center;
+}
+
